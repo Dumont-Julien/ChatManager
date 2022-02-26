@@ -1,0 +1,32 @@
+#
+#_________ .__            __     _____                                              __________.__               .__
+#\_   ___ \|  |__ _____ _/  |_  /     \ _____    ____ _____     ____   ___________  \______   \  |  __ __  ____ |__| ____
+#/    \  \/|  |  \\__  \\   __\/  \ /  \\__  \  /    \\__  \   / ___\_/ __ \_  __ \  |     ___/  | |  |  \/ ___\|  |/    \
+#\     \___|   Y  \/ __ \|  | /    Y    \/ __ \|   |  \/ __ \_/ /_/  >  ___/|  | \/  |    |   |  |_|  |  / /_/  >  |   |  \
+# \______  /___|  (____  /__| \____|__  (____  /___|  (____  /\___  / \___  >__|     |____|   |____/____/\___  /|__|___|  /
+#        \/     \/     \/             \/     \/     \/     \//_____/      \/                            /_____/         \/
+#
+
+#Global
+Prefix: "[§cChat§f-§cManager§f] "
+Color: "§c"
+NoPermission: "§CYou don't have permission to use that"
+
+#Logs
+api-webhook: "Your url"
+title_1: "**Chat-Manager**"
+description_1: "-> Chat has been disabled by {PLAYER}"
+footer_1: "Plugin by NewTheBuilder"
+
+title_2: "**Chat-Manager**"
+description_2: "-> Chat has been enable by {PLAYER}"
+footer_2: "Plugin by NewTheBuilder"
+
+#Message
+Disable_Chat: "The chat is disable"
+Broadcast_Disable_Chat: "Chat has been disabled by {PLAYER} !"
+Broadcast_Enable_Chat: "Chat has been enabled by {PLAYER} !"
+Chat_Cleared: "The chat has been cleared by {PLAYER}"
+
+#Variable
+Chat-Status: enable

@@ -1,0 +1,15 @@
+name: ChatManager
+version: 1.0.0
+main: NewTheBuilder\ChatManager\Main
+api: 4.0.0
+author: NewTheBuilder
+permissions:
+  chatmanager.bypass:
+    default: op
+    description: "bypass all accès"
+  chatmanager.command.chat:
+    default: op
+    description: "Allow accès to /mutechat"
+  chatmanager.command.clearchat:
+    default: op
+    description: "Allow accès to /clearchat"
